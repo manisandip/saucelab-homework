@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85e7b2b7-53ba-42d7-b366-eb6892a2a5fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZEMYvU3tIkzMs6cq4hXXX8N7hU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SauceLab2\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSuit.userShouldBeAbleToRegisterSuccessfully">
+    <configuration name="TestSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SauceLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.ck" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SauceLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="ck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SauceLab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="user" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldBeAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SauceLab2" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestSuit.ck" />
+      <item itemvalue="JUnit.TestSuit" />
+      <item itemvalue="JUnit.TestSuit.user" />
+      <item itemvalue="JUnit.TestSuit.userShouldBeAbleToRegisterSuccessfully" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSuit.userShouldBeAbleToRegisterSuccessfully" />
+        <item itemvalue="JUnit.TestSuit" />
+        <item itemvalue="JUnit.TestSuit.user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85e7b2b7-53ba-42d7-b366-eb6892a2a5fc" name="Default Changelist" comment="" />
+      <created>1584399850776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584399850776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Inspections" timestamp="1584460367731">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1584460367731" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584489661951">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584489661951" />
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584465624370">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1584465624370" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1584466649712">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584466649712" />
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom" timestamp="1584490496143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584490496143" />
+    <state width="1557" height="215" key="GridCell.Tab.0.center" timestamp="1584490496143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584490496143" />
+    <state width="1557" height="215" key="GridCell.Tab.0.left" timestamp="1584490496143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584490496143" />
+    <state width="1557" height="215" key="GridCell.Tab.0.right" timestamp="1584490496143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584490496143" />
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog" timestamp="1584458312931">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1584458312931" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584551415527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584551415527" />
+    <state x="182" y="132" key="new project wizard" timestamp="1584484123998">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="132" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1584484123998" />
+  </component>
+</project>
